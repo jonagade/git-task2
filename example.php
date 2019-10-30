@@ -5,6 +5,9 @@ class Vegetable {
 
     var $edible;
     var $color;
+    var $var3;
+    var $var5;
+    var $somemore;
     var $var4;
     var $some;
 
