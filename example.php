@@ -6,6 +6,7 @@ class Vegetable {
     var $edible;
     var $color;
     var $var4;
+    var $var3;
 
     function __construct($edible, $color="green")
     {
